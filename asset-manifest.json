@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dnd/static/css/main.419482b9.chunk.css",
+    "main.js": "/dnd/static/js/main.935a7ddf.chunk.js",
+    "main.js.map": "/dnd/static/js/main.935a7ddf.chunk.js.map",
+    "runtime-main.js": "/dnd/static/js/runtime-main.b665b8de.js",
+    "runtime-main.js.map": "/dnd/static/js/runtime-main.b665b8de.js.map",
+    "static/css/2.fa2a91d7.chunk.css": "/dnd/static/css/2.fa2a91d7.chunk.css",
+    "static/js/2.38e7919e.chunk.js": "/dnd/static/js/2.38e7919e.chunk.js",
+    "static/js/2.38e7919e.chunk.js.map": "/dnd/static/js/2.38e7919e.chunk.js.map",
+    "index.html": "/dnd/index.html",
+    "precache-manifest.c1b3aee58813cff439ce061f2fcb0f51.js": "/dnd/precache-manifest.c1b3aee58813cff439ce061f2fcb0f51.js",
+    "service-worker.js": "/dnd/service-worker.js",
+    "static/css/2.fa2a91d7.chunk.css.map": "/dnd/static/css/2.fa2a91d7.chunk.css.map",
+    "static/css/main.419482b9.chunk.css.map": "/dnd/static/css/main.419482b9.chunk.css.map",
+    "static/js/2.38e7919e.chunk.js.LICENSE.txt": "/dnd/static/js/2.38e7919e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b665b8de.js",
+    "static/css/2.fa2a91d7.chunk.css",
+    "static/js/2.38e7919e.chunk.js",
+    "static/css/main.419482b9.chunk.css",
+    "static/js/main.935a7ddf.chunk.js"
+  ]
+}
