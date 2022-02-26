@@ -10,21 +10,6 @@ import * as GiIcons from "react-icons/gi";
 //todo maybe fix fade in tranistions so that the whole webpage doesnt have to fadein
 //todo if default value is passed in as levle required to cast the spell levle marks need to change. Probably best to try to .map on the data after we recieve it
 
-/*
-Divination - GiCardRandom
-Conjuration - GiMagicPalm
-Necromancy - GiSkeletalHand
-Evocation - GiLightningSlashes
-Abjuration - GiLightningDome
-Transmutation - GiPotionBall
-Enchantment - GiWrappedHeart
-Illusion - GiBrain
-
-Classes
-========================
-Wizard - GiWizardStaff 
-*/
-
 const baseURL = "https://www.dnd5eapi.co/api/spells/";
 
 const Spells = () => {
@@ -153,7 +138,7 @@ const Spells = () => {
             />
           </div>
           <div className="spell-damage">
-            {typeof data.damage !== "undefined" && (
+            {typeof data.damage.damage_at_slot_level !== "undefined" && (
               <h1>{data.damage.damage_at_slot_level[slider]}</h1>
             )}
           </div>
